@@ -1,2 +1,5 @@
-# parcel-multi-page-postcss-sugarss-pug-starter
-Parcel multi page starter with postcss, sugarss and pug
+# Parcel starter with multi page support, postcss, sugarss and pug
+commands
+- yarn install
+- yarn dev
+- yarn build
